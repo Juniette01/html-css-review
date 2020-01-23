@@ -1,0 +1,25 @@
+body {
+    background-color: #ffffff;
+  }
+
+table {
+    border-spacing: 0px;
+    border-collapse: collapse;
+    border: 0px;
+  }
+
+  table img{
+    display: block;
+  }
+
+table.center {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+}
+
+.link a{ color: #e244c0fa; } 
+a:hover { color: #525252; 
+    text-decoration: none;
+} 
+
